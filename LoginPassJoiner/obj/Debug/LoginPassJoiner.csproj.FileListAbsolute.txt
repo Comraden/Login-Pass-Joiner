@@ -1,0 +1,9 @@
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\bin\Debug\LoginPassJoiner.exe.config
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\bin\Debug\LoginPassJoiner.exe
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\bin\Debug\LoginPassJoiner.pdb
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\obj\Debug\LoginPassJoiner.csprojResolveAssemblyReference.cache
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\obj\Debug\LoginPassJoiner.Form1.resources
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\obj\Debug\LoginPassJoiner.Properties.Resources.resources
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\obj\Debug\LoginPassJoiner.csproj.GenerateResource.Cache
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\obj\Debug\LoginPassJoiner.exe
+c:\users\postalx\documents\visual studio 2013\Projects\LoginPassJoiner\LoginPassJoiner\obj\Debug\LoginPassJoiner.pdb
